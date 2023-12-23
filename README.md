@@ -32,6 +32,8 @@ Installing and running game:
 
 git clone https://github.com/puHoraira/DualGameProject-CHESS-TICTACTOE-.git
 
+cd DualGameProject-CHESS-TICTACTOE-
+
 cd DualGameProject1-2
 
 cd sourceCodes
